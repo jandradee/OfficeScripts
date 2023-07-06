@@ -20,3 +20,4 @@ See the results:
 
 ![image](https://github.com/jandradee/OfficeScripts/assets/78384813/a9c118b6-2394-494d-b504-840acce32494)
 
+<sub>This is a subscript text</sub>
