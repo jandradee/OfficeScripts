@@ -3,6 +3,7 @@ This is a repository with all as you needed to code Office Scripts
 
 # Creating Variables
 Use **Let** to dimensioning a veriabe, then set the name and value:
+
 Let a = 2;
 
 Let b = 5;
