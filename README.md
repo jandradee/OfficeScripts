@@ -1,13 +1,18 @@
 # OfficeScripts
 This is a repository with all as you needed to code Office Scripts
 
-# Creating Variables
-Use **Let** to dimensioning a veriabe, then set the name and value:
+# Variables
 
-https://github.com/jandradee/OfficeScripts/blob/00f98e5b7d5ad3508129c1800b391fcbdcf93c46/variables.txt#L1-L9
+## Creating Variables
+Use **Let** to dimensioning a veriabe. Then set the name and value using **=** like this:
+
+https://github.com/jandradee/OfficeScripts/blob/75ce33b21a9f0598daa6d019fa098854bdfe22af/variables.txt#L1-L9
 
 See the results:
 
-![image](https://github.com/jandradee/OfficeScripts/assets/78384813/a9c118b6-2394-494d-b504-840acce32494)
+![image](https://github.com/jandradee/OfficeScripts/assets/78384813/d15367a5-d732-41b0-948b-4d61149a02ae)
+
+## Share values to cells using variables
+
 
 
