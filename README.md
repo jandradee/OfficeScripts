@@ -4,7 +4,7 @@ This is a repository with all as you needed to code Office Scripts
 # Creating Variables
 Use **Let** to dimensioning a veriabe, then set the name and value:
 
-https://github.com/jandradee/OfficeScripts/blob/9bff4bf3b6cf3564a9aaf62bdc3eb5e632fbb6d0/variables.txt?plain=1
+https://github.com/jandradee/OfficeScripts/blob/ffa119617238a7b17734dde1a73c0382099d1896/variables.txt#L1
 
 
 
