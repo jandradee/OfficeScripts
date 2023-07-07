@@ -6,7 +6,7 @@ This is a repository with all as you needed to code Office Scripts
 ## Creating Variables
 Use **Let** to dimensioning a veriabe. Then set the name and value using **=** like this:
 
-https://github.com/jandradee/OfficeScripts/blob/75ce33b21a9f0598daa6d019fa098854bdfe22af/variables.txt#L1-L9
+https://github.com/jandradee/OfficeScripts/blob/09d8ae2587f6422a37cad82e51e4d5593b63d9d8/variables-ex1.txt#L1-L9
 
 See the results:
 
