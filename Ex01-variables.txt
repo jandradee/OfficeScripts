@@ -6,4 +6,5 @@ function main(workbook: ExcelScript.Workbook) {
 
     //Print the results
     console.log(c);
+   /* Comment a  paragraph */
 }
