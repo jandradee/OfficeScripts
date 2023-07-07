@@ -1,9 +1,9 @@
 function main(workbook: ExcelScript.Workbook) {
+//Declare Variables
   Let a = 2;
   Let b = 5;
   let c = a*b;
   
 //Print the results
   console.log(c);
-
 }
