@@ -4,7 +4,11 @@ This is a repository with all as you needed to code Office Scripts
 # Variables
 
 ## Creating Variables
-Use **Let** to dimensioning a veriabe. Then set the name and value using **=** like this:
+Use **let** to dimensioning a veriabe. Then set the name and value using **=** like this:
+
+**let** [variable name] = [value];
+
+### Exaple 01:
 
 https://github.com/jandradee/OfficeScripts/blob/09d8ae2587f6422a37cad82e51e4d5593b63d9d8/variables-ex1.txt#L1-L9
 
