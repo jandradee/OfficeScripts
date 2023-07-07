@@ -1,1 +1,18 @@
+function main(workbook: ExcelScript.Workbook) {
+    //Declare Variables
+    let a = 5;
+    let b = 5;
+    let c = a * b;
+    let d = a + b;
 
+    //Using a fixed range into active worksheet
+    let selectedSheet = workbook.getActiveWorksheet();
+    let range = selectedSheet.getRange("A1");
+    range.setValue(c);
+
+    //Use active Cell
+    let selectedCell = workbook.getActiveCell();
+    let cellvalue = selectedCell.getCell(0, 0);
+    cellvalue.setValue(d)
+        
+}
